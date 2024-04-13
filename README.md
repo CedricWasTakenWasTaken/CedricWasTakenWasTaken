@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### This is me.
+### Apples float on water because they are 25% air.
 <!--
 **CedricWasTakenWasTaken/CedricWasTakenWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
