@@ -1,5 +1,5 @@
-### I am super totally 100% completely a professional.
-### Apples float on water because they are 25% air.
+### Pronouns: He/Him
+### I am a second year IT student.
 <!--
 **CedricWasTakenWasTaken/CedricWasTakenWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
